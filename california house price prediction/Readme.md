@@ -1,0 +1,1 @@
+Reference: `Hands-On machine learning with scikitlearn and pytorch` by Aurelien Geron
